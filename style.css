@@ -1,0 +1,9 @@
+body {
+  background-image: url(img/bag-books.jpg);
+}
+.navbar ul {
+  list-style: none;
+}
+.table {
+  background-color: white;
+}
